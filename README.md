@@ -2,6 +2,11 @@
 
 This is simple webservice. Json data add to database and fetch the record in the form of json.
 
+Video Demonstration : 
+
+https://user-images.githubusercontent.com/118426413/206887985-daa5fffe-e91c-45ef-af19-a1493b50e975.mp4
+
+
 Actions:
 * Add the product  
   If you want add the product hit the url in post request Url-> localhost:9395/Ecom/addProduct and pass the json formate product details.
@@ -24,6 +29,11 @@ Actions:
 * Show the Orders <br/>
   hit the url localhost:9395/Ecom/showOrder
   
+ 
   
   
+  
+
+
+
   
